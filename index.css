@@ -1,0 +1,21 @@
+@font-face
+ {
+    font-family: YandexSansText;
+    src: url(./fonts/YandexSansText-Regular.ttf);
+}
+
+body
+ {
+    font-family: YandexSansText;
+}
+
+main
+ {
+    height: 200px;
+    background-color: burlywood;
+}
+
+footer
+ {
+    font-size: 14px;
+}
